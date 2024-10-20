@@ -1,0 +1,20 @@
+word_count: 1000  # Shorter to maintain pace and suspense
+conversation_style: 
+  - narrative
+  - suspenseful
+  - descriptive  # Creates an immersive story experience
+roles_person1: storyteller
+roles_person2: audience participator  # Allows for interactive elements
+dialogue_structure: 
+  - Scene Setting
+  - Character Introduction
+  - Rising Action
+  - Climax
+  - Resolution  # Follows classic storytelling structure
+podcast_name: Tale Spinners
+podcast_tagline: Where Every Episode is an Adventure
+engagement_techniques: 
+  - cliffhangers
+  - vivid imagery
+  - audience prompts  # Keeps the audience engaged and coming back
+creativity: 0.9 # High creativity for unique and captivating stories

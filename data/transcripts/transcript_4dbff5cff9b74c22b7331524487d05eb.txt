@@ -1,0 +1,17 @@
+<Person1> <prosody rate="90%" pitch="medium"> Welcome to Steve Warbys Info Podcast - Your Personal Generative AI Podcast. Today, we're diving deep into the world of tool storage with, you guessed it, DEWALT! </prosody> </Person1>
+
+<Person2> <prosody rate="100%" pitch="high">  Alright, let's talk storage!   <emphasis>  DEWALT  </emphasis>  is known for their tough tools, but what about keeping them organized?  </prosody> </Person2>
+
+<Person1> <prosody rate="93%" pitch="medium">  They've got everything from backpacks to toolboxes and even workshop racking solutions! They even have a McLaren collab!  </prosody> </Person1>
+
+<Person2> <prosody rate="98%" pitch="high"> McLaren, huh? Fancy! But let's be real, I'm more of a "TOUGHSYSTEM® 2.0 DXL Deep Drawers" kind of person. What's the deal with those?  </prosody> </Person2>
+
+<Person1> <prosody rate="95%" pitch="medium">  Ah, a person of discerning taste! Those are heavy-duty, part of their mobile storage line. Perfect for, say, taking your tools on the go.  </prosody> </Person1>
+
+<Person2> <prosody rate="100%" pitch="high">  Makes sense! Now, for someone who's always losing things, what's the most organized option? Asking for a friend...  </prosody> </Person2>
+
+<Person1>  <prosody rate="90%" pitch="medium">  Well, for your "friend," I'd recommend checking out their  <emphasis>  TSTAK  </emphasis>  system. Lots of little compartments and organizers. You know, a place for everything and everything in its place!  </prosody> </Person1>
+
+<Person2>  <prosody rate="98%" pitch="high">  I see, interesting!  </prosody> </Person2>
+
+<Person1> <prosody rate="90%" pitch="medium"> Thanks for listening to Steve Warbys Info Podcast - Your Personal Generative AI Podcast! Join us next time when we discuss... I don't know yet, but it'll be exciting!  </prosody> </Person1> 

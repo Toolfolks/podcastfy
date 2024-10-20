@@ -1,0 +1,6 @@
+<Person1>  <emphasis level="strong">Welcome to Steve Warbys Info Podcast  - Your Personal Generative AI Podcast.</emphasis>  What are the ethics of using AI to generate content, especially when it comes to things like creating art or writing?</Person1> 
+<Person2> It's a really interesting question!  On the one hand, AI can help us create things that we never could have before. Like, imagine an AI that can generate a painting in the style of Van Gogh, or write a symphony like Mozart!  That’s amazing, right?</Person2>
+<Person1> Yeah, uh, that's pretty cool. But on the other hand, I wonder about the <emphasis level="reduced">authorship</emphasis> of these works.  Like, if an AI creates a painting, who owns the copyright? The person who programmed the AI? The AI itself?</Person1>
+<Person2> Hmm, I see what you mean.  It gets even trickier when you think about AI being used to create things like fake news or propaganda. That's a whole other ethical can of worms! </Person2>
+<Person1>  Definitely.  I think we need to be careful about how we use this technology, you know?  We need to make sure that it’s used for good and not for harm. </Person1>
+<Person1>That’s all the time we have for today. Thanks for listening! <emphasis level="strong"> This has been Steve Warbys Info Podcast  - Your Personal Generative AI Podcast.</emphasis> </Person1>

@@ -1,0 +1,33 @@
+<Person1> <emphasis>Welcome</emphasis> to Steve Warbys AI Info Podcast - Your Personal Generative AI Podcast.  Today, we're diving deep into the legacy of a true titan in the tool industry: DEWALT!  Get ready to explore a century of power, innovation, and unwavering commitment to the trades. </Person1>
+
+<Person2>  A century, huh? That's quite a legacy! I'm ready to learn more. What makes DEWALT so special, and why are we celebrating their 100th anniversary? </Person2>
+
+<Person1>  Well, my friend, DEWALT is more than just a name on a power tool. It's a promise of quality, durability, and performance. For a hundred years, they've been the go-to for professionals who demand the very best. They've built a reputation on innovation, always pushing the boundaries of what's possible with tools. </Person1>
+
+<Person2>  Innovation, you say? Give me an example!  </Person2>
+
+<Person1>  Alright, take their new limited-edition 18V Compact Drill Driver, the DCD100. It's a beast in a compact package, designed to celebrate their 100th anniversary. This drill packs 68Nm of torque, a two-speed gearbox, and 15 torque settings, all in a frame that's incredibly compact and easy to handle. </Person2>
+
+<Person2>  Okay, that sounds impressive. <emphasis>But</emphasis>, are they resting on their laurels after all this time?  </Person2>
+
+<Person1> Not a chance! DEWALT is as committed to innovation as ever. They've won the Pro Tool Innovation Award for the last three years running,  which speaks volumes about their dedication to pushing the boundaries.  </Person1>
+
+<Person2>  I see, interesting! So, they're not just about making powerful tools; they're about making smart tools too?  </Person2>
+
+<Person1>  Exactly! They're constantly listening to the needs of the pros, incorporating feedback, and developing new technologies to make their tools even more powerful, efficient, and safe. </Person1>
+
+<Person2>  Speaking of safety, DEWALT has always struck me as a brand that takes safety seriously.  </Person2>
+
+<Person1> Absolutely! It's been ingrained in their DNA since day one. From their earliest innovations to their modern-day designs, safety is paramount. They're at the forefront of accident prevention, constantly striving to create a safer work environment for the tradespeople who rely on their tools. </Person1>
+
+<Person2>  It sounds like DEWALT is more than just a tool company. They're invested in the tradespeople they serve.  </Person2>
+
+<Person1>  You hit the nail on the head! They're passionate about supporting the trades and fostering the next generation of skilled workers. They even have initiatives like "DEWALT Grow the Trades" to promote education and training in the skilled trades. They truly believe in empowering the people building our world.  </Person1>
+
+<Person2> That's commendable. Now, I have to ask, what's in store for DEWALT's next 100 years?  </Person2>
+
+<Person1> That's the million-dollar question! But knowing DEWALT, they'll continue to innovate, lead the industry, and empower the professionals who build our world. They're a company with a rich history and a bright future, and I, for one, am excited to see what they come up with next! </Person1>
+
+<Person2> Well said! That's all the time we have for today.  </Person2>
+
+<Person1>  Thank you for tuning in to Steve Warbys AI Info Podcast - Your Personal Generative AI Podcast, and until next time, stay informed, stay curious! </Person1> 

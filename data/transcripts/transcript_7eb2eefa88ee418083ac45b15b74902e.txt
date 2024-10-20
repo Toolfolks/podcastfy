@@ -1,0 +1,19 @@
+<Person1>
+Welcome to Ste Warbys - Your Personal Generative AI Podcast. Today, we're diving headfirst into the exciting world of AI and how it can supercharge your business! <emphasis>Higher Thoughts</emphasis>, an agency claiming to be at the forefront of this revolution, has caught our attention. </Person1> 
+
+<Person2>
+<emphasis level="reduced">Higher Thoughts?</emphasis> I see what they did with the name. But are they all talk and no action, or do they have the goods to back it up?  Their website mentions "146,789,9 lines of code" and "436 man-hours." Sounds a bit like they're trying to dazzle us with big numbers. </Person2>
+
+<Person1>
+Right?  It does feel a tad like a flex, doesn't it? But hey, confidence isn't always a bad thing. Plus, their website does showcase a pretty wide range of services - web and mobile app development, AI integration, even video production and graphic design.  They seem to be a one-stop shop for all things digital.  </Person1>
+
+<Person2>
+True, I'll give them that.  Their team seems pretty solid, too. Hanson, the Co-Founder, sounds like a visionary, while Steve, the other Co-Founder, seems like the marketing and tech whiz.  But what about their work process? It's all well and good to talk about "Discovery and Research" and "Deployment and Maintenance," but what does it actually look like in practice? </Person2>
+
+<Person1>
+That's the million-dollar question, isn't it? Sadly, their website doesn't offer many specifics.  It's all a bit vague, which is a shame. I always appreciate a good case study or client testimonial to see how they've delivered on their promises.  </Person1>
+
+<Person2>
+Agreed.  Well, it's been enlightening, to say the least, exploring Higher Thoughts and their approach to AI-powered solutions. What do you say we wrap it up here? </Person2>
+
+<Person1> Sounds like a plan. Until next time folks, this has been Ste Warbys,  your one-stop shop for all things AI.  Stay curious! </Person1> 

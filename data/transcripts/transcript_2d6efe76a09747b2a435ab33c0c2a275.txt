@@ -1,0 +1,17 @@
+<Person1> <prosody rate="90%" pitch="medium"> Welcome to Steve Warbys Info Podcast  - Your Personal Generative AI Podcast. Today, we're diving deep into the world of tool storage, specifically DEWALT's offerings. Buckle up, folks! </Person1>
+
+<Person2> <prosody rate="100%" pitch="high">  <emphasis> Deep </emphasis>  into tool storage? I hope you brought your tool belt, because this sounds intense! So, what kind of storage solutions are we talking about? </Person2>
+
+<Person1> <prosody rate="95%" pitch="medium">  Well, DEWALT has a whole <emphasis> system </emphasis>. They've got backpacks for easy transport, rolling tool bags for the pros on the go.  They even have these heavy-duty storage boxes called <say-as interpret-as="spell-out"> TOUGHSYSTEM </say-as>.</Person1>
+
+<Person2> <prosody rate="100%" pitch="high">  <say-as interpret-as="spell-out"> TOUGHSYSTEM </say-as>?  Those sound pretty serious. Are we talking about storing, like, tiny screws, or can we fit a whole jackhammer in there? </Person2>
+
+<Person1> <prosody rate="95%" pitch="medium">  Oh, they're serious alright.  Think more like power tools, hand tools, and accessories. They even have different sizes and configurations to choose from. It's all about customization, my friend. </Person1>
+
+<Person2> <prosody rate="100%" pitch="high"> Customization, huh? I like the sound of that!  But, let's be real,  all that organization probably comes with a hefty price tag, right?  </Person2>
+
+<Person1> <prosody rate="95%" pitch="medium"> Well, quality tools and storage usually do. But hey, maybe we'll find some deals along the way.  You never know until you explore, right? </Person1>
+
+<Person2> <prosody rate="100%" pitch="high"> That's the spirit!  Let's get this toolbox party started!   </Person2>
+
+<Person1> <prosody rate="90%" pitch="medium">  And that's a wrap on another episode of Steve Warbys Info Podcast.  Catch you all on the flip side! </Person1> 

@@ -1,0 +1,9 @@
+<Person1> <prosody rate="92%" pitch="medium"> Welcome to Steve Warbys Info Podcast  - Your Personal Generative AI Podcast. Today, we're diving deep into the world of tool storage with, you guessed it, DeWalt! </prosody> </Person1> 
+<Person2> <prosody rate="95%" pitch="high">  DeWalt? Those guys know how to make tools, but what about keeping them organized?</prosody> </Person2>
+<Person1> <prosody rate="92%" pitch="medium"> Oh, they've got a whole system!  We're talking backpacks, tough boxes, rolling tool bags- the works! They even have these cool "TSTAK" organizers.  </prosody> </Person1>
+<Person2> <prosody rate="95%" pitch="high"> "TSTAK"?  Sounds interesting, what's so special about them?</prosody> </Person2>
+<Person1> <prosody rate="92%" pitch="medium">  Well, it seems like you can get them in different sizes, some are even IP54 rated, meaning they're dust and water-resistant!  Perfect for tough job sites. </prosody> </Person1>
+<Person2> <prosody rate="95%" pitch="high">  Okay, now that's impressive!  Dust and water-resistant?  DeWalt's serious about protecting your tools! </prosody> </Person1>
+<Person1> <prosody rate="92%" pitch="medium">  Absolutely!  And for the serious workshop, they've got these heavy-duty "TOUGHSYSTEM" storage racks. </prosody> </Person1>
+<Person2> <prosody rate="95%" pitch="high">  Sounds like DeWalt's got you covered, whether you're a weekend warrior or a seasoned pro.  Thanks for the info! </prosody> </Person2>
+<Person1> <prosody rate="92%" pitch="medium">  You got it!  And that's a wrap on another episode of Steve Warbys Info Podcast.  Until next time, stay organized out there! </prosody> </Person1> 

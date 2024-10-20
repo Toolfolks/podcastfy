@@ -1,0 +1,19 @@
+<Person1> <prosody rate="90%" pitch="medium"> Welcome to Steve Warbys Info Podcast  - Your Personal Generative AI Podcast. Today, we're diving deep into the world of tool storage with, you guessed it, DeWalt! </prosody> </Person1>
+
+<Person2> <prosody rate="100%" pitch="high">  DeWalt? Really?  I mean, they make tools, sure, but storage?  </prosody> </Person2>
+
+<Person1> <prosody rate="93%" pitch="medium"> Oh, they're in the storage game now, my friend, and they're not messing around! They've got everything from backpacks to toolboxes to, get this, entire workshop racking systems.  </prosody> </Person1>
+
+<Person2> <prosody rate="98%" pitch="high"> Workshop racking systems? Ok, now you've got my attention. Are we talking like, full-on professional garage setup here?  </prosody> </Person2>
+
+<Person1> <prosody rate="95%" pitch="medium"> You better believe it! They call it the "TOUGHSYSTEM® Workshop Racking Solution".  It's heavy-duty, customizable, the whole nine yards.  But they also have options for us regular folks, like the "TSTAK" line. It's modular, so you can connect different boxes and organizers. </prosody> </Person1>
+
+<Person2> <prosody rate="100%" pitch="high">  Modular, huh? I do love a good organizational system.  But what about something for on-the-go?  I'm not rolling up to a client's house with a whole workshop.  </prosody> </Person2>
+
+<Person1> <prosody rate="92%" pitch="medium">  Don't worry, they've got you covered. They have a whole section for "Tool Bags, Pouches, & Belts".  They even have a "DEWALT x McLaren F1 Team Pro Backpack".  Because who doesn't need a racing-inspired backpack for their tools?  </prosody> </Person1>
+
+<Person2>  <prosody rate="96%" pitch="high"> Alright, DeWalt, you've impressed me.  </prosody> </Person2>
+
+<Person1> <prosody rate="90%" pitch="medium">  Right? It's more than just drills and saws with these guys.  </prosody> </Person1>
+
+<Person1> <prosody rate="90%" pitch="medium"> Thanks for tuning in to Steve Warbys Info Podcast, your one-stop shop for, well, information!  Until next time! </prosody> </Person1> 

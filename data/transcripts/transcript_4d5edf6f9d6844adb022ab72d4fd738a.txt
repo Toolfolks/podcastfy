@@ -1,0 +1,17 @@
+<Person1> <emphasis>Welcome</emphasis> to Steve Warbys Info Podcast  - Your Personal Generative AI Podcast.  Today, we're diving deep into the <prosody rate="110%">world</prosody> of DEWALT storage solutions! </Person1>
+
+<Person2>  <prosody pitch="high">Ooh, exciting!</prosody> I've been meaning to get my tools organized.  What kind of storage options are we talking about? </Person2>
+
+<Person1> Well, they've got everything from backpacks and tool bags to these heavy-duty storage systems called TOUGHSYSTEM® 2.0.   They even have a McLaren F1 Team Pro Backpack!  <prosody pitch="low"> Fancy, huh?</prosody> </Person1>
+
+<Person2>  A McLaren backpack?  Okay, you've got my attention. What's so special about this TOUGHSYSTEM®? </Person2>
+
+<Person1>  <prosody rate="90%">It's this really cool modular system</prosody> - you can get different units like drawers, toolboxes, and even a dolly to move it all around.  They're designed to be tough, like the name suggests, and they even have IP54 ratings for dust and water resistance. </Person1>
+
+<Person2>  <prosody rate="90%"> Okay, that makes sense.</prosody>  But what about us regular folks who don't need a whole workshop on wheels?  Anything a bit more... portable? </Person2>
+
+<Person1>  They've got you covered!  They have a whole line of TSTAK™ boxes and organizers that interlock, so you can customize your storage.  They even have soft tool bags and totes. </Person1>
+
+<Person2>  <prosody pitch="high">That's awesome!</prosody>  It sounds like DEWALT has a storage solution for everyone.  </Person2>
+
+<Person1>  It seems that way! And that's it for today's episode on DEWALT storage solutions!  We hope you found this overview helpful.  Until next time, happy organizing! </Person1> 
